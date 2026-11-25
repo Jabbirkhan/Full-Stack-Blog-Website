@@ -1,8 +1,10 @@
 # Blog Website
+
 A modern, full-stack **Blog Platform** built using the **MERN Stack** (**MongoDB, Express.js, React.js, and Node.js**).
 The application provides a secure blogging experience with dedicated interfaces for both **Users** and a **Single Administrator**.
 Authenticated users can discover articles, read blog content, like or unlike posts, explore categories, view author information, and interact with platform content. The administrator can manage blogs, social links, policies, principles, and website information through a dedicated **Admin Dashboard**.
 ---
+
 ## ✨ Features
 ### 👤 User Features
 - ✅ User Registration & Login
@@ -394,7 +396,6 @@ VITE_BACKEND_URL=http://localhost:8002
 ## 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/Jabbirkhan/Full-Stack-Blog-Website.git
-cd mern-blog-website
 ```
 ## 2️⃣ Install Dependencies
 ### Backend
@@ -505,18 +506,7 @@ Optimized for:
 - [ ] Responsive Layouts
 - [ ] Production Environment Configuration
 ---
-# 🚀 Future Enhancements
-Potential future features:
-- 💬 Blog Comments System
-- 🔖 User Bookmarks
-- 📧 Newsletter Subscription
-- ✍️ Rich Text Editor
-- 📊 Blog Analytics Dashboard
-- 🌙 Dark Mode
-- 🔗 Related Posts Engine
-- 👥 Multi-Author Support
-- 🚀 SEO Optimization
----
+
 # 📄 License
 This project is licensed under the **MIT License**.
 ---
