@@ -3,6 +3,7 @@
 A modern, full-stack **Blog Platform** built using the **MERN Stack** (**MongoDB, Express.js, React.js, and Node.js**).
 The application provides a secure blogging experience with dedicated interfaces for both **Users** and a **Single Administrator**.
 Authenticated users can discover articles, read blog content, like or unlike posts, explore categories, view author information, and interact with platform content. The administrator can manage blogs, social links, policies, principles, and website information through a dedicated **Admin Dashboard**.
+
 ---
 
 ## ✨ Features
