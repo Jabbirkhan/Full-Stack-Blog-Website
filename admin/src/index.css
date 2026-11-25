@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.active{
+    background-color: blue;
+    color: white;
+    padding: 5px 5px;
+}
+
+.jodit-wysiwyg pre {
+  max-width: 100% !important;
+  overflow-x: auto !important;  
+  white-space: pre !important;  
+}
+
+.jodit-container {
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+.jodit-wysiwyg {
+  max-width: 100% !important;
+}
